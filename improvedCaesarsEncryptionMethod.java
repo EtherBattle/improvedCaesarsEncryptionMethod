@@ -1466,7 +1466,17 @@ public class improvedCaesarsEncryptionMethod {
 	}
 	
 	public void helpDocs() {
-		System.out.println("SCE (Standard Caesarian Encryption) & ECE (Enchanced Caesarian Encryption)"+System.lineSeparator()+"Suite Manual");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("");
+		System.out.println("SCE (Standard Caesarian Encryption) & ECE (Enchanced Caesarian Encryption)"+System.lineSeparator()+System.lineSeparator()+"Suite Manual");
 		System.out.println("");
 		System.out.println("Calling methods:");
 		System.out.println("");
